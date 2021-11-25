@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+
+}
+
+
+
+.main-div{
+    width: 100%;
+
+    float: right;
+    background-color:rgb(182, 88, 88);
+    font-size: 30px;
+    
+
+    text-decoration: none;
+
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: center;
+
+    
+
+   
+}
+.home {
+    padding: 95px;
+}
+
+.about {
+    padding: 95px;
+}
+.Contact {
+    padding: 95px;
+}
